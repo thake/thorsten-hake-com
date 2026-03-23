@@ -5,4 +5,4 @@ url: /profil
 ---
 Hier finden Sie mein aktuelles Profil zum Herunterladen.
 
-[Profil Thorsten Hake 2026/03](/profile/Profil-ThorstenHake-202603.pdf)
+[Profil Thorsten Hake 2026/03](/profile/Profil_ThorstenHake-202603.pdf)
